@@ -1,0 +1,58 @@
+body {
+    background-image: url(https://i.pinimg.com/564x/05/40/15/054015c18409d953a854c1a35148f4b2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+h1 {
+
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    border: 20px solid #262525;
+    border-radius: 2px;
+    padding: 30px 30px;
+}
+
+h2 {
+    font-size: large;
+    letter-spacing: 1px;
+    border-radius: 2px;
+    padding: 30px 30px;
+}
+
+.card-container {
+    display: flex;
+    justify-content: space-between;
+    grid-gap: 10px;
+}
+
+.card {
+    background-color: #f1f1f1;
+    padding: 10px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h3 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h4 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h5 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+p1 {
+    text-align: start;
+    font-size: x-large;
+    font-weight: 400;
+}
